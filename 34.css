@@ -1,0 +1,6 @@
+tr:first-of-type{
+    background-color: red;
+}
+tr:last-of-type{
+    background-color: yellow;
+}
